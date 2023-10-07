@@ -10,10 +10,14 @@ Currently I spend my time learning new technologies on [Dicoding](https://www.di
 
 If you Interesting to know me more, let's connect with me on [Linkedin](https://www.linkedin.com/in/muh-aqil-rajab-h/)
 
-### Github Statistic
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# Github Statistics
 <p align="left">
 <a href="https://github.com/m4rhz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m4rhz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m4rhz&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
