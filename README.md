@@ -4,7 +4,7 @@
 
 Hello, my name is **Muh. Aqil Rajab H** 👋<br />
 
-I am an Informatics student at Telkom University (since 2022) with a passion for **cybersecurity** and **network security**.<br />
+I am an Informatics student at Telkom University (since 2022) with a passion for **cybersecurity**<br />
 
 I gained practical experience during my **6-month internship at PLN Icon Plus**, where I assisted in planning and implementing network installations and managing security for corporate clients. I also hold the [Google IT Support Professional Certificate](https://coursera.org/share/e21f2c6907c5f2e3cdc12ff6f3ba119a) and have hands-on experience in network and system security.  
 
