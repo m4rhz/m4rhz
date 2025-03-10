@@ -9,7 +9,7 @@ I am an Informatics student at Telkom University (since 2022) with a passion for
 I gained practical experience during my **6-month internship at PLN Icon Plus**, where I assisted in planning and implementing network installations and managing security for corporate clients. I also hold the [Google IT Support Professional Certificate](https://coursera.org/share/e21f2c6907c5f2e3cdc12ff6f3ba119a) and have hands-on experience in network and system security.  
 
 Throughout my journey in cybersecurity, I have:
-- Participated in Capture The Flag (CTF) competitions to sharpen my penetration testing skills using tools like Metasploit, Burp Suite, and Nmap.
+- Participated in Capture The Flag (CTF) competitions to sharpen my penetration testing skills using tools like Metasploit, Burp Suite, Nmap, etc.
 - Proficiency in programming languages: **Python**, **Bash**, **Golang**, **C**, **C++**, and **Java**.
 - Won **1st place in the Network Pioneers Cup** at the Cyvero Cup, showcasing my ability to protect critical infrastructures from cyber threats.
 
