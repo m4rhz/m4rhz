@@ -1,32 +1,69 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-# About Me
+<h1 align="center">Hi there, I'm Muh. Aqil Rajab H! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-Hello, my name is **Muh. Aqil Rajab H** 👋<br />
-
-I am an Informatics student at Telkom University (since 2022) with a passion for **cybersecurity**<br />
-
-I gained practical experience during my **6-month internship at PLN Icon Plus**, where I assisted in planning and implementing network installations and managing security for corporate clients. I also hold the [Google IT Support Professional Certificate](https://coursera.org/share/e21f2c6907c5f2e3cdc12ff6f3ba119a) and have hands-on experience in network and system security.  
-
-Throughout my journey in cybersecurity, I have:
-- Participated in Capture The Flag (CTF) competitions to sharpen my penetration testing skills using tools like Metasploit, Burp Suite, Nmap, etc.
-- Proficiency in programming languages: **Python**, **Bash**, **Golang**, **C**, **C++**, and **Java**.
-- Won **1st place in the Network Pioneers Cup** at the Cyvero Cup, showcasing my ability to protect critical infrastructures from cyber threats.
-
-Currently, I am exploring advanced topics in cybersecurity and contributing to innovative projects to safeguard digital ecosystems.  
-📚 **Fun Fact:** I'm also a student researcher aiming to collaborate with experts in the field.  
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muh-aqil-rajab-h/) or explore my projects below. Let's collaborate to create a more secure digital future! 🌐
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# GitHub Statistics
-
-<p align="left">
-<a href="https://github.com/m4rhz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m4rhz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m4rhz&layout=compact&theme=algolia"/>
-</a>
+<p align="center">
+  <b>Red Teamer 🔴 | DevOps Engineer ☁️ | Network Specialist 🌐</b>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  I am a final-year Informatics student at <b>Telkom University</b> specializing in <b>Offensive Security</b>, <b>Network Architecture</b>, and <b>Cloud Infrastructure</b>. <br>
+  Passionate about designing secure networks and automating infrastructure workflows.
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/muh-aqil-rajab-h/">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muh.aqil.r.h@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</div>
+
+<br>
+
+### 🚀 Professional Experience & Achievements
+
+I combine practical field experience with advanced technical skills:
+
+* **Telkom Akses (Internship):** Developed interactive Telegram bots using **Google Apps Script** to automate technician reporting and prioritize ticket monitoring.
+* **PLN Icon Plus (Internship):** Managed network planning, QC, and device configuration (Cisco/MikroTik) for corporate clients.
+* **Competitions:**
+    * 🏆 **1st Place - Network Pioneers Cup (ACAVERO 2024):** Secured top spot by designing robust and secure network architectures using **Cisco Packet Tracer**.
+    * 📝 **Best Write-Up - Adikara CTF 2024:** Recognized for detailed documentation and reporting in penetration testing.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/m4rhz">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m4rhz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m4rhz&layout=compact&theme=algolia"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
