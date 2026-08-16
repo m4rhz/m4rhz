@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I am a final-year Informatics student at <b>Telkom University</b> dedicated to the field of <b>Cybersecurity</b>.<br>
+  I am a final-year Informatics student at <b>Telkom University</b> (expected graduation: Aug 2026), dedicated to the field of <b>Cybersecurity</b>.<br>
   I believe that to <i>break</i> a system (Red Team) or <i>protect</i> it (Blue Team), one must first understand how to <b>build</b> and <b>automate</b> it.
 </p>
 
@@ -24,25 +24,38 @@
   <a href="mailto:muh.aqil.r.h@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://img.shields.io/badge/CRTOM-Certified-1F3A5F?style=for-the-badge" alt="CRTOM Certified" />
 </div>
 
 <br>
 
 ### 🛡️ Security & Infrastructure Journey
-
 My experience in DevOps and Networking serves as the foundation for my security research:
 
 * **⚔️ Offensive Security (Red Team):**
-    * **Vulnerability Research:** Actively learning penetration testing methodologies and exploit development.
-    * **Achievement:** Earned **Best Write-Up** at Adikara CTF 2024 for detailed vulnerability reporting.
+    * **CRTOM-Certified:** Trained in Red Team governance, MITRE ATT&CK-based adversary emulation (FIN6, APT29), and Cloud/Hybrid engagement planning.
+    * **Applied Exploitation:** Hands-on Web Exploitation (PHP Phar Deserialization, Auth Bypass), Binary Exploitation (Buffer Overflow), and Applied Cryptanalysis (RSA, AES-ECB Oracle) — proven through competitive CTF play.
+    * **Achievement:** Earned **Best Write-Up, 1st Place** at Adikara CTF 2024/2025 across Web, Binary, Cryptography, and Forensics categories.
 
 * **🛡️ Defensive Security (Blue Team):**
-    * **Secure Architecture:** Designed a hardened network topology using **Cisco Packet Tracer**, winning **1st Place** at Network Pioneers Cup (ACAVERO 2024).
-    * **SOC & GRC:** Trained in Security Operations Center workflows and Governance, Risk, & Compliance (MTM Partnership).
+    * **SOC & Incident Response:** Investigated simulated server breaches in **Splunk SIEM** — detecting Reverse Shells, Privilege Escalation, and Data Exfiltration (LOTL) — then mapped findings to **MITRE ATT&CK** and authored real-time correlation detection rules.
+    * **GRC:** Designed a Clean Desk & Clear Screen security policy aligned with Indonesia's **UU PDP**, completed under the **MTM SOC & GRC Program**.
+    * **Secure Architecture:** Designed a hardened enterprise network topology in **Cisco Packet Tracer** — VLAN segmentation, OSPF, ACLs, Port Security — winning **1st Place** at Network Pioneers Cup (ACAVERO 2024).
 
 * **⚙️ DevSecOps & Automation (The Foundation):**
-    * Leveraging my knowledge in **Docker**, **Kubernetes**, and **CI/CD** to understand cloud-native vulnerabilities.
+    * Leveraging **Docker**, **Kubernetes**, and **CI/CD** to understand cloud-native vulnerabilities.
     * Developed automated monitoring bots (Google Apps Script) at **Telkom Akses**, focusing on data integrity and availability.
+
+---
+
+### 🎓 Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CRTOM-Red_Team_Operations_Management-1F3A5F?style=flat-square" />
+  <img src="https://img.shields.io/badge/SOC_%26_GRC_Program-MTM-2E5266?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps_Expert-Dicoding-0175C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/IT_Support-Google-4285F4?style=flat-square" />
+</div>
 
 ---
 
@@ -57,6 +70,9 @@ My experience in DevOps and Networking serves as the foundation for my security 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </div>
 
 <br>
