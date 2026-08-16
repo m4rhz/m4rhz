@@ -83,12 +83,6 @@ My experience in DevOps and Networking serves as the foundation for my security 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m4rhz&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 ### 📊 GitHub Statistics
 
 <p align="center">
