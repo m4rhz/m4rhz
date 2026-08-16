@@ -25,6 +25,8 @@
     <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/CRTOM-Certified-1F3A5F?style=for-the-badge" alt="CRTOM Certified" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=m4rhz&label=Profile%20Views&color=E31C25&style=flat-square" alt="Profile Views" />
 </div>
 
 <br>
@@ -81,6 +83,12 @@ My experience in DevOps and Networking serves as the foundation for my security 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=m4rhz&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
 ### 📊 GitHub Statistics
 
 <p align="center">
@@ -88,6 +96,10 @@ My experience in DevOps and Networking serves as the foundation for my security 
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m4rhz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m4rhz&layout=compact&theme=algolia"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rhz&theme=algolia" alt="GitHub Streak Stats" />
 </p>
 
 <div align="center">
