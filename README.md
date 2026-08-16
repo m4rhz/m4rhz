@@ -91,11 +91,3 @@ My experience in DevOps and Networking serves as the foundation for my security 
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m4rhz&layout=compact&theme=algolia"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rhz&theme=algolia" alt="GitHub Streak Stats" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
