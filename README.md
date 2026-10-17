@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E31C25&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Aqil!+%F0%9F%91%8B;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;CTF+Player+%F0%9F%9A%A9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E31C25&center=true&vCenter=true&width=460&lines=Hi+there,+I'm+Aqil!+%F0%9F%91%8B;Offensive+Security+%26+Pentesting+%F0%9F%8E%AF;CTF+Player+%F0%9F%9A%A9" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I am a final-year Informatics student at <b>Telkom University</b> (expected graduation: Aug 2026), dedicated to the field of <b>Cybersecurity</b>.<br>
+  I am an Informatics graduate from <b>Telkom University</b>, dedicated to the field of <b>Offensive Security & Penetration Testing</b>.<br>
   I believe that to <i>break</i> a system (Red Team) or <i>protect</i> it (Blue Team), one must first understand how to <b>build</b> and <b>automate</b> it.
 </p>
 
@@ -34,17 +34,17 @@
 ### 🛡️ Security & Infrastructure Journey
 My experience in DevOps and Networking serves as the foundation for my security research:
 
-* **⚔️ Offensive Security (Red Team):**
+- **⚔️ Offensive Security (Red Team):**
     * **CRTOM-Certified:** Trained in Red Team governance, MITRE ATT&CK-based adversary emulation (FIN6, APT29), and Cloud/Hybrid engagement planning.
     * **Applied Exploitation:** Hands-on Web Exploitation (PHP Phar Deserialization, Auth Bypass), Binary Exploitation (Buffer Overflow), and Applied Cryptanalysis (RSA, AES-ECB Oracle) — proven through competitive CTF play.
-    * **Achievement:** Earned **Best Write-Up, 1st Place** at Adikara CTF 2024/2025 across Web, Binary, Cryptography, and Forensics categories.
+    * **Achievement:** Earned **Best Write-Up, 1st Place** at Adikara CTF across Web, Binary, Cryptography, and Forensics categories.
 
-* **🛡️ Defensive Security (Blue Team):**
+- **🛡️ Defensive Security (Blue Team):**
     * **SOC & Incident Response:** Investigated simulated server breaches in **Splunk SIEM** — detecting Reverse Shells, Privilege Escalation, and Data Exfiltration (LOTL) — then mapped findings to **MITRE ATT&CK** and authored real-time correlation detection rules.
     * **GRC:** Designed a Clean Desk & Clear Screen security policy aligned with Indonesia's **UU PDP**, completed under the **MTM SOC & GRC Program**.
-    * **Secure Architecture:** Designed a hardened enterprise network topology in **Cisco Packet Tracer** — VLAN segmentation, OSPF, ACLs, Port Security — winning **1st Place** at Network Pioneers Cup (ACAVERO 2024).
+    * **Secure Architecture:** Designed a hardened enterprise network topology in **Cisco Packet Tracer** — VLAN segmentation, OSPF, ACLs, Port Security — winning **1st Place** at Network Pioneers Cup (ACAVERO).
 
-* **⚙️ DevSecOps & Automation (The Foundation):**
+- **⚙️ DevSecOps & Automation (The Foundation):**
     * Leveraging **Docker**, **Kubernetes**, and **CI/CD** to understand cloud-native vulnerabilities.
     * Developed automated monitoring bots (Google Apps Script) at **Telkom Akses**, focusing on data integrity and availability.
 
@@ -55,8 +55,9 @@ My experience in DevOps and Networking serves as the foundation for my security 
 <div align="center">
   <img src="https://img.shields.io/badge/CRTOM-Red_Team_Operations_Management-1F3A5F?style=flat-square" />
   <img src="https://img.shields.io/badge/SOC_%26_GRC_Program-MTM-2E5266?style=flat-square" />
-  <img src="https://img.shields.io/badge/DevOps_Expert-Dicoding-0175C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/IT_Support-Google-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python_for_Pentest-Udemy-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cyber_Security_Bootcamp-VisioNet-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps_Expert-IDCamp-0175C2?style=flat-square" />
 </div>
 
 ---
