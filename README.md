@@ -60,7 +60,7 @@ My experience in DevOps and Networking serves as the foundation for my security 
 
 ---
 
-### 💻 Arsenal & Tech Stack
+### 💻 Tech Stack & Tools
 
 <div align="center">
   <!-- Programming & Scripting -->
@@ -80,9 +80,13 @@ My experience in DevOps and Networking serves as the foundation for my security 
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <br>
-  <!-- SIEM, Cloud & Networking -->
+  <!-- Networking, Simulation & API Testing -->
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <br>
+  <!-- SIEM, Monitoring & Cloud -->
+  <img src="https://img.shields.io/badge/Wazuh-00BFFF?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div>
 
