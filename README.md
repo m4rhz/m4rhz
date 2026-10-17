@@ -25,8 +25,6 @@
     <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/CRTOM-Certified-1F3A5F?style=for-the-badge" alt="CRTOM Certified" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=m4rhz&label=Profile%20Views&color=E31C25&style=flat-square" alt="Profile Views" />
 </div>
 
 <br>
