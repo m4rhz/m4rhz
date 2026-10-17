@@ -34,13 +34,13 @@ My experience in DevOps and Networking serves as the foundation for my security 
 
 - **⚔️ Offensive Security (Red Team):**
     * **CRTOM-Certified:** Trained in Red Team governance, MITRE ATT&CK-based adversary emulation (FIN6, APT29), and Cloud/Hybrid engagement planning.
-    * **Applied Exploitation:** Hands-on Web Exploitation (PHP Phar Deserialization, Auth Bypass), Binary Exploitation (Buffer Overflow), and Applied Cryptanalysis (RSA, AES-ECB Oracle) — proven through competitive CTF play.
+    * **Applied Exploitation:** Hands-on Web Exploitation (PHP Phar Deserialization, Auth Bypass), Binary Exploitation (Buffer Overflow), and Applied Cryptanalysis (RSA, AES-ECB Oracle), proven through competitive CTF play.
     * **Achievement:** Earned **Best Write-Up, 1st Place** at Adikara CTF across Web, Binary, Cryptography, and Forensics categories.
 
 - **🛡️ Defensive Security (Blue Team):**
-    * **SOC & Incident Response:** Investigated simulated server breaches in **Splunk SIEM** — detecting Reverse Shells, Privilege Escalation, and Data Exfiltration (LOTL) — then mapped findings to **MITRE ATT&CK** and authored real-time correlation detection rules.
+    * **SOC & Incident Response:** Investigated simulated server breaches in **Splunk SIEM**, detecting Reverse Shells, Privilege Escalation, and Data Exfiltration (LOTL), then mapped findings to **MITRE ATT&CK** and authored real-time correlation detection rules.
     * **GRC:** Designed a Clean Desk & Clear Screen security policy aligned with Indonesia's **UU PDP**, completed under the **MTM SOC & GRC Program**.
-    * **Secure Architecture:** Designed a hardened enterprise network topology in **Cisco Packet Tracer** — VLAN segmentation, OSPF, ACLs, Port Security — winning **1st Place** at Network Pioneers Cup (ACAVERO).
+    * **Secure Architecture:** Designed a hardened enterprise network topology in **Cisco Packet Tracer**, VLAN segmentation, OSPF, ACLs, Port Security, winning **1st Place** at Network Pioneers Cup (ACAVERO).
 
 - **⚙️ DevSecOps & Automation (The Foundation):**
     * Leveraging **Docker**, **Kubernetes**, and **CI/CD** to understand cloud-native vulnerabilities.
